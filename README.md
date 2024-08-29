@@ -1,5 +1,5 @@
 
-# 링크[https://cardchatbot-gq6qfp8xt3dzd6tntthh4u.streamlit.app/]
+# [링크](https://cardchatbot-gq6qfp8xt3dzd6tntthh4u.streamlit.app)
 
 
 # 카드 정보 챗봇 프로젝트
