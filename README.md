@@ -6,7 +6,7 @@
 ## 프로젝트 구조
 
 ```plaintext
-MINI_PROJECT/
+Card_Chatbot/
 ├── CardInfo/                   # 개별 카드 정보 파일을 저장하는 디렉터리
 ├── .env                        # 환경 변수 파일
 ├── .gitignore                  # Git 무시 파일
