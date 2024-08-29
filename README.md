@@ -90,7 +90,7 @@ Streamlit 앱은 브라우저에서 `http://localhost:8501`에서 확인할 수 
 ### `pinecone_store.py`
 
 이 스크립트는 `combined_card_info.json`에서 카드 데이터를 로드한 후 Pinecone에 업로드합니다.  
-데이터는 Hugging Face 임베딩을 사용해 벡터화된 후 Pinecone에 저장됩니다.  
+데이터는 Open AI 임베딩을 사용해 벡터화된 후 Pinecone에 저장됩니다.  
 이렇게 저장된 데이터는 챗봇과의 상호작용 시 효율적으로 검색됩니다.
 
 ### `chatbot_logic.py`
