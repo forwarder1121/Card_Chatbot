@@ -60,7 +60,7 @@ python card_crawler.py
 ### 4. Pinecone에 데이터 저장
 
 `pinecone_store.py` 스크립트를 사용하여 통합된 JSON 데이터를 Pinecone 벡터 데이터베이스에 업로드합니다.  
-각 카드의 혜택이 Hugging Face 임베딩으로 벡터화되어 Pinecone에 저장됩니다.
+각 카드의 혜택이 Open AI 임베딩으로 벡터화되어 Pinecone에 저장됩니다.
 
 ```bash
 python pinecone_store.py
